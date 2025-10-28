@@ -1,0 +1,5 @@
+{
+  "name": "Health Guardian AI",
+  "description": "An intelligent health tracking application that allows users to log and monitor key health metrics like blood sugar, blood pressure, and weight. It features an AI-powered meal analyzer to provide insights on food choices and a health assistant for general wellness questions.",
+  "requestFramePermissions": []
+}
